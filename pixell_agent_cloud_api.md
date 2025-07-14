@@ -1,6 +1,6 @@
 # Pixell Agent Cloud API Documentation
 
-Base URL: `https://main.d2o02924ohm5pe.amplifyapp.com/api`
+Base URL: `https://cloud.pixell.global/api`
 Local URL: `http://localhost:4000/api`
 
 ## Authentication
