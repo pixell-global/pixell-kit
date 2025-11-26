@@ -115,6 +115,7 @@ class AgentBuilder:
             "app",
             "setup.py",
             "pak.yaml",
+            "agents_config.json",  # Multi-agent coordination config
         ]
 
         # MCP config if specified
